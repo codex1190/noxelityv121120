@@ -4,8 +4,8 @@ const { handleNightSafety, handleHunger, handleMobAvoidance, handlePathing, resp
 const walkLoop = require('./behaviors/walkLoop');
 
 const bot = createClient({
-  host: 'lootboxphh.aternos.me',
-  port: 44399,
+  host: 'kupaleros-rg1D.aternos.me',
+  port: 40915,
   username: 'Noxell',
   offline: true,
   version: '1.21.120'
