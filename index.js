@@ -8,7 +8,7 @@ const bot = createClient({
   port: 44399,
   username: 'Noxell',
   offline: true,
-  version: '1.21.93'
+  version: '1.21.120'
 });
 
 let isNight = false;
