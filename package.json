@@ -16,6 +16,6 @@
   "author": "you",
   "license": "MIT",
   "dependencies": {
-    "bedrock-protocol": "latest"
+    "bedrock-protocol": "^3.50.0"
   }
 }
